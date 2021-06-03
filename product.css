@@ -1,0 +1,28 @@
+.all-product{
+    width: 880px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.all-product img{ 
+    width: 200px;
+    height: 250px;
+    margin: 10px;  
+    background-color: wheat; 
+}
+
+span {
+    color: red;
+    padding: 10px;
+}
+.all-product div{display: inline-block;}
+#sp{color: goldenrod;}
+#back{
+    width: 1000px;
+    margin: auto;
+    overflow: hidden;
+    background-color: wheat;
+}
+.all-product h2 {
+    background-color: black;
+}

@@ -1,0 +1,46 @@
+
+.movie24,.all-movie{width: 1000px; 
+    margin: auto; 
+    overflow: hidden;}
+.mySlides{   
+    width: 100%;    
+}
+.movie-slide{
+    position:relative;
+    max-width: 800px;
+    margin: auto; 
+    overflow: hidden;
+    
+}
+.dis-non{display: none;}
+.botton-left{
+    width: 50px;
+    height: auto;
+    position:absolute;
+    top:50%;
+    left:0%;
+}
+.botton-right{
+    width: 50px;
+    height: auto;
+    position:absolute;
+    top:50%;
+    right:0%;
+}
+.all-movie{
+    background-color: #e0e0e0;
+    margin-top: 20px;
+           
+}
+.all-movie img{
+    width: 200px;
+    height: 250px;
+    margin: 10px;   
+}
+.movie{
+    width: 880px;
+    margin: auto;
+    overflow: hidden;
+}
+
+

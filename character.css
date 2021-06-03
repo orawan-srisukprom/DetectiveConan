@@ -1,0 +1,42 @@
+.center p{
+    width: 450px; 
+    height: 250px;
+    overflow: hidden;
+    display: inline-block;  }
+.center img{
+    max-width: 75%;
+    height: auto;
+    float: left;
+}
+.center {
+    width: 1000px; 
+    margin: auto; 
+    overflow: hidden;
+}
+
+
+h2{background-color:darkblue;}
+#kudo p{ 
+    width: auto;
+    
+}
+#main-cha img , #family-cha img{
+    max-width: 45%;   
+}
+#main-cha p,#family-cha p{
+    width: 300px; 
+    height: 250px;  
+}
+.center span{
+    color: red;
+    font-style: italic;
+    font-weight: bolder;
+}
+p#profes{
+    display: block; 
+    margin: 0 auto;
+    
+}
+#family-cha{
+    border-bottom: darkblue 50px solid;
+}

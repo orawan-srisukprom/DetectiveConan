@@ -1,0 +1,92 @@
+img#logo{
+    display: block; margin: 0 auto;
+}
+img#poster{
+    width: 450px;
+    height: 500px;
+    margin-left: 63px;
+}
+h2 {
+    text-align: center;  
+}
+#num-member{
+    width: 100px;
+    padding: 10px;
+    border: white solid 2px;
+    text-align: center;
+    position: absolute;
+    top: 152px;
+    background-color: white;
+    color: black;
+}
+.content h4{padding-left: 20px;}
+body{
+    background-color: black;
+    width: 100%; 
+    margin: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+#header{background-color: white;}
+
+.top-menu{
+    background-color: darkblue;
+    width: 1000px; 
+    margin: auto; 
+    overflow: hidden;
+    border: darkblue solid 2px; 
+}
+.top-menu li{
+    display: inline;
+    padding: 8px;
+    border: 2px solid darkblue;
+    margin-right: 1em;
+}
+#list-content li:hover , #nav-menu li:hover {
+    background-color:yellow;
+    color: goldenrod;
+    }
+li#logout {
+    position: relative;
+    right: -200px;
+    top: 0px;}
+
+a:link , a:visited{
+    text-decoration: none;
+    color: white;
+  }
+p.descript {
+    color: black;
+    background-color: white;
+    width: 1000px; 
+    margin: auto; 
+    border: 20px solid white;}
+.content{
+    width: 1000px; 
+    margin: auto; }
+.content div{
+    width: 200px;
+    padding: 10px;
+    border: white solid 2px;
+    float: left;
+}
+#si-up:link,#si-up:visited{
+    text-decoration: none;
+    color: darkblue;
+}
+
+.contact{
+    margin-top: 20px;
+    width: 200px;
+    background-color: darkblue;
+    border: darkblue 10px solid;
+    position: fixed;
+    bottom: 10px;
+    right: 5px;
+
+}
+form{
+    text-align: center;
+    
+}
+
